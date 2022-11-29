@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+/pyvenv.cfg
+/allure-commands
+/geckodriver.log
+reports/
